@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  kiero_intern.cpp
+  main.cpp
+  interfaces.cpp
+  math.cpp
+  console.cpp
+  visuals.cpp
+  visuals.hpp
+  hooks.cpp
+  menu.cpp
+  Generating Code...
+x64\Debug\visuals.obj : warning LNK4042: object specified more than once; extras ignored
+  tounel.vcxproj -> C:\Users\warp\source\repos\tounel\x64\Debug\tounel.dll

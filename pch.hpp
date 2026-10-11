@@ -1,0 +1,19 @@
+#ifndef PCH_H
+#define PCH_H
+#define WIN32_LEARN_AND_MEAN
+#include "Windows.h"
+#include <iostream>
+#include <cstddef>
+#include <cstdint>
+#include <d3d9.h>
+#include "external/minhook/include/MinHook.h"
+#include "external/kiero.hpp"
+#include "external/kiero_d3d9.hpp"
+#include "src/menu/menu.hpp"
+#include "src/hooks/hooks.hpp"
+#include "src/console/console.hpp"
+#include "imgui.h"
+#include "imgui_impl_dx9.h"
+#include "imgui_impl_win32.h"
+#include "external/kiero_intern.hpp"
+#endif
